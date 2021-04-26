@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "playerVermelho.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 282,
+				"h": 42
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "playerVermelho.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 282,
+						"h": 42
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 282,
+						"h": 42
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8a1f3479de3b6b62d0fb8c862c02de7d:20c807d1de2810af91da2840f5f9ec40:4602ddcb8c3e55a8274448a5f7565090$"
+	}
+}
