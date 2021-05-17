@@ -198,27 +198,4 @@ public class Player : MonoBehaviour
         }
     }
 
-    void CheckPlayersDeath()
-    {
-        // 1
-        if (deadPlayers == 1)
-        {
-            // 2
-            if (deadPlayerNumber == 1)
-            {
-                Debug.Log("Player 2 is the winner!");
-                // 3
-            }
-            else
-            {
-                Debug.Log("Player 1 is the winner!");
-            }
-            // 4
-        }
-        else
-        {
-            Debug.Log("The game ended in a draw!");
-        }
-    }
-
 }
