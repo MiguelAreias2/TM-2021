@@ -45,7 +45,6 @@ function preload() {
     this.load.image('agua', 'assets/agua.png');
     this.load.image('aguaVerde', 'assets/aguaVerde.png');
     this.load.image('lava', 'assets/lava.png');
-    this.load.image('titulo', 'assets/titulo.png');
     this.load.image("playbutton", "assets/playbutton.png");
     this.load.image('bomb', 'assets/bomb.png');
     this.load.audio("death", ["assets/death.mp3", "assets/death.ogg"]);
@@ -58,7 +57,6 @@ function preload() {
     });
 
     this.load.image('portao1', 'assets/portao1.png');
-    this.load.image('portao4', 'assets/portao4.png');
     this.load.image('fimJogo', 'assets/fimDeJogo.png');
     this.load.audio("pick", ["assets/pick.ogg", "assets/pick.mp3"]);
     this.load.audio("somFundo", ["assets/somFundo.mp3", "assets/somFundo.mp3"]);
